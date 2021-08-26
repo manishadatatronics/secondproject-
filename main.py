@@ -5,6 +5,8 @@ def sub(a,b):
     return c
 print("result is " ,sub(5,3))
 
+print("Hi pycharm")
+
 
 
 # This is a sample Python script.
